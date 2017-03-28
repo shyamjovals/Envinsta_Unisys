@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <!--<android.support.v7.widget.CardView-->
+    <!--android:id="@+id/cv"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_centerInParent="false"-->
+    <!--app:cardCornerRadius="6dp"-->
+    <!--app:cardElevation="3dp"-->
+    <!--app:cardUseCompatPadding="true"-->
+        <!--android:layout_margin="5dp">-->
+
+    <!--</android.support.v7.widget.CardView>-->
+
+
+    <fragment
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        class="com.google.android.gms.maps.SupportMapFragment" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:fabSize="normal"
+        app:srcCompat="@drawable/ic_action_loc"
+        android:id="@+id/fab"
+      android:layout_gravity="bottom|end"
+        android:background="?attr/colorAccent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="10dp" />
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+        android:layout_gravity="top"
+        android:background="@drawable/layout_bg_2"
+        android:layout_margin="5dp">
+
+        <gr.escsoft.michaelprimez.searchablespinner.SearchableSpinner
+            android:id="@+id/SearchableSpinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            app:RevealEmptyText="    Touch to select city"
+            app:BoarderColor="@color/colorPrimary"
+            app:SpinnerExpandHeight="300dp"
+            android:layout_margin="3dp"
+            app:ShowBorders="true"
+            app:BordersSize="1dp"
+            android:elevation="5dp"
+            />
+
+    <gr.escsoft.michaelprimez.searchablespinner.SearchableSpinner
+        android:id="@+id/SearchableSpinner1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        app:RevealEmptyText="    Touch to select issue"
+        app:BoarderColor="@color/colorPrimary"
+        app:SpinnerExpandHeight="300dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        app:ShowBorders="true"
+        app:BordersSize="1dp"
+        android:elevation="5dp"/>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

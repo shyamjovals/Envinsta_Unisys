@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RevealEditText"><attr format="color" name="RevealViewBackgroundColor"/><attr format="color" name="RevealViewTextColor"/><attr format="color" name="StartEditTintColor"/><attr format="color" name="EditViewBackgroundColor"/><attr format="color" name="EditViewTextColor"/><attr format="color" name="DoneEditTintColor"/><attr format="integer" name="AnimDuration"/><attr format="string" name="Text"/><attr format="boolean" name="ShowIcons"/><attr format="string" name="TextIfEmpty"/></declare-styleable>
+    <string name="app_name">RevealEditText</string>
+    <string name="done_edit">Done Edit</string>
+    <string name="press_for_edit">Press for edit</string>
+    <string name="start_edit">Start Edit</string>
+    <string name="type_here">Type here...</string>
+</resources>

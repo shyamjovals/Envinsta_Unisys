@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SearchableSpinner"><attr format="color" name="RevealViewBackgroundColor"/><attr format="color" name="StartSearchTintColor"/><attr format="color" name="SearchViewBackgroundColor"/><attr format="color" name="SearchViewTextColor"/><attr format="color" name="DoneSearchTintColor"/><attr format="integer" name="AnimDuration"/><attr format="boolean" name="ShowBorders"/><attr format="dimension" name="BordersSize"/><attr format="color" name="BoarderColor"/><attr format="dimension" name="SpinnerExpandHeight"/><attr format="boolean" name="KeepLastSearch"/><attr format="string" name="RevealEmptyText"/><attr format="string" name="SearchHintText"/><attr format="string" name="NoItemsFoundText"/></declare-styleable>
+    <string name="app_name">SearchableSpinner</string>
+    <string name="done_search">Done Search</string>
+    <string name="empty_list">No Items Found</string>
+    <string name="search">Search...</string>
+    <string name="start_search">Start search</string>
+</resources>

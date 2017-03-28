@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="stateprogressbar-0.0.3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.kofigyan.stateprogressbar/stateprogressbar/0.0.3/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.kofigyan.stateprogressbar/stateprogressbar/0.0.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kofigyan.stateprogressbar/stateprogressbar/0.0.3/aeea9e6d99280ea135c16c1323fbcec31d463433/stateprogressbar-0.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

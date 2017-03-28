@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_92009953f2b81796328cddeffb1fe5663138c47f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_f6db06c0e276e8ac097047b45eeacf2a06218fb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_c49d49714288f30117d555ef3ac8e19a53bfdec1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_bc090a2a5247fe5ef9f9daaf43022474aa5364ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bctsp-jdk14/1.38/4821122f8390d15f4b5ee652621e2a2bb1f1bf16/bctsp-jdk14-1.38.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4821122f8390d15f4b5ee652621e2a2bb1f1bf16">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/bctsp-jdk14-1.38_e0c869c2e7d7cde2ad6ccad303bd01b9262901d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_1c43eaaca7b055f5ca13b3e00b55dc20da0caf6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.l4digital.fastscroll/fastscroll/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb097854db2f42161d8fc71b591fceb1f645fc62">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.l4digital.fastscroll-fastscroll-1.0.1_41e019e6298c0a17843f5c82fb996da0a039ef63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="799a6d77a75319bafd61c36ec1ea9f288531d72f">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7ee09a27de6745ac376d0a06b48aa6ef9b9b1a26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5e309b1df3051abebbfda31d1c80cd19bec617da">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.specyci-residemenu-1.6_ad4926630b1730fd45dd10b3169b1c98161e710a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.github.armcha/SpaceNavigationView/1.4.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c08fc2912032c7c00bcfe166434fab4011e2406">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.armcha-SpaceNavigationView-1.4.1_7e4f4fb8d97ff3704fbedd8c6b01e023d4b72982/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.nightonke/boommenu/2.0.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="735f52d952785f327a7f05ededa9da7d92ffccca">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.nightonke-boommenu-2.0.7_d928abd958c6100ac7c4113fde4ff1c4087eb7a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_80e8e9acfdff2150e445c3f8566f07533b3453d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zxing/1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.dm7.barcodescanner-zxing-1.9_6c82b6405c9fac1426cc3aea8ad0056d275bc212/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_003661edf156f8fc1e435ea42d4cbf4f41b31038/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_7488c0fb063849f0f6aef8cc990117f4776f8821/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_0c83e700ec485326a37eeeab6d600e92344a4e2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.sa90.materialarcmenu/library/1.5.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="60a7395de373ab991276237d40857092bb1be3da">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.sa90.materialarcmenu-library-1.5.0_4ebd8e162b7c9ccda8356de8029fb5ec0e053d6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_450f1df7e9a0bb9d45c617ea7e52a595ea36a4c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_a182b915a2967cc8d0a7e0abd350a2341589bff1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.github.alamkanak/android-week-view/1.2.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="393eb85d65baa2c3702efdf699832498f8b51bf1">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.alamkanak-android-week-view-1.2.6_8964b723dffaa62cd3451c899a30fe65c09ac00c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.5.2_bd88a1976c266433501c2d03dd07c0a6de23f005/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.github.yalantis/Side-Menu.Android/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2e9634168413b1752941c036e5e4b1c00439b90f">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.yalantis-Side-Menu.Android-1.0.1_404c07708c8ddc32b8fe63d839a941b2d4d88fac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.akexorcist/googledirectionlibrary/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d720627a0fdd516f238c3acdfac6043e7717b742">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.akexorcist-googledirectionlibrary-1.0.5_89c07adfbbeca7c65b5dafeaeb782029d40fa949/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_32285837fc567b7e3de99942e6fa75ae083004ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_eff4ad256c4046ec436504a5b4defc8553ad566b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb6c83d14996769c65f060f81cbb5ab1f64ca75">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.wnafee-vector-compat-1.0.5_9e6b4f9276195c06adac3ccdf993fd266447ffaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_328683f42c16f73f625659271a63fe22e6d9e049/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f34aa3852d3fcd2327fcd0899db1d9762723e277">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_65f055ac57d7cb053098df20dc1be98f9e72ebb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.joanzapata.iconify/android-iconify-material/2.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4fa8c275156c8a6319afec28c2081e7a84247dee">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.joanzapata.iconify-android-iconify-material-2.2.2_ea8f2ba8d5b740f66712964ff427137c7eeed93c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_5f2ab0f6683b9dfad5eb13a83d957e6276463cd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_80d6c3310a7cc2d3fc13f46fbfaaa6c5f2dd1d29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_a985b6140fee020af05f0997eb68281e441ff12b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.0_3d36b17278329a74a9ff64364483b98351981373/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.github.ozodrukh/CircularReveal/1.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c231461bd4ab97550b0b053c159e4f13ffc869">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ozodrukh-CircularReveal-1.0.4_0ab9d1076c9e16ffa3d3042345e1533ecaf408d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.5_dcabecda159ba9e20b8ddf7179a569aa21099199/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.jaredrummler/material-spinner/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="60182b96dcbd95dc33dd734bc81505d2b5ddc70e">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jaredrummler-material-spinner-1.1.0_7e865ce48a1b86dc5d9d6623fb01a2320374ac2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_f4e5f629a1b205dee77f13bad02474289e79ba6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_a7a677fc20b092fae7e65b94a2899e6a18c7b2fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.4.0_71f4d948677f6418f4d2989bfc77a3e060994969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_7e7f831fbd9e5b921b8ee2288e78b0e2ceb39fa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.joanzapata.iconify/android-iconify/2.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="970b2eadc8805e4e04a9008f97368c7b8cc78651">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.joanzapata.iconify-android-iconify-2.2.2_390274ca254d4b1ecf73af6ef11b135a6642842b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_ac74c52f3f73ddc88f154bdc9072ac3d60f63ebe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_c0fd0471ef824a6f9c0ef58da44234aa87e52c13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_c0321a636056aa01a1a824c4a5a56177df2a2c17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.kofigyan.stateprogressbar/stateprogressbar/0.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="18f664873e25493b9e3e735cb8e0f2b69152a044">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.kofigyan.stateprogressbar-stateprogressbar-0.0.3_c1ba73d0463725c726f7f5a49a97c632963f53e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-storage/0.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-storage-0.6.0_22d474b630946d0e01b10dbc55e839dd15c4a69c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_6479d63734e4a9de5403c229857b19654e5a711c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_64027e076629fec276e70bb5255a4158b0325cc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.dm7.barcodescanner-core-1.9_093679df0e5be0208168c2cb3714f542de8cdd37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcmail-jdk14/1.38/14ff2dfec8578f5f6838c4d6a77a86789afe5382/bcmail-jdk14-1.38.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="14ff2dfec8578f5f6838c4d6a77a86789afe5382">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/bcmail-jdk14-1.38_cfe7efccfab86a630640a3425a5523e9b44406d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.github.michaldrabik/tapbarmenu/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffb5ca9d86d47e5d88122249ece623c6d6c4d3a5">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.michaldrabik-tapbarmenu-1.0.5_66fa4d1044f80343efabc18ea0a56431ed36bc2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_dcb8abefc3079d7ec6b33db4ddaabb304b13011b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.itextpdf/itextpdf/5.0.6/d7b0091cc9f6862dd388180cce94a2b0f4cc19e7/itextpdf-5.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7b0091cc9f6862dd388180cce94a2b0f4cc19e7">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/itextpdf-5.0.6_dc70e023d2de4951db4b350463c2f3ab2b737ee5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.iceteck.silicompressorr/silicompressor/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d036fbcfcb681ce7c2b5024fb7080ca5abf73ac1">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.iceteck.silicompressorr-silicompressor-1.1.0_237e2b1c890df7a77f99eb3b29261c7a72fcfbae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_af031e19b88cad0bf6971e8c0c2fa0cf2075eb7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.facebook.stetho/stetho/1.4.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26b6f0185cbba8917ba9d9d0bd170f95311622ab">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.stetho-stetho-1.4.1_82aff3c1a3bf3aaefaa61cffdc101f02a4059f51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_f7cc68ad84c947107256329d12145b19409941f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/id.zelory/compressor/1.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3a724d5d031884220bae4a255f6d2763cd0ebdc4">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/id.zelory-compressor-1.0.4_fa6d6a6219f1d88f7495ec7b2b9c49284dcf26f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_42202b53e28a2d6ca90fd0d54b7f859f8c340a10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_215087cd02587b5dad90a7b33c23091e2b811a29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_14023a6c0fb56c855c244269dbb83c8d64dcdd3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.nihaskalam.android/progress-button/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="016f0c4dc50a7cffa3ea453a95a123fe41db906a">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.nihaskalam.android-progress-button-1.0.1_2c070b2d3f19df7f5e93663cdf8b1ae96cd9dda6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_d4dbe36cc2ea7022e2f0ed3e19a801fcc41b7a74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.dmitrymalkovich.android/progress-fab/1.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="908c062ca17506c860d6e327ddb534009afa0f30">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.dmitrymalkovich.android-progress-fab-1.6_79eb562383bdaf236fcdcabe91f182d2b1d4052c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/gr.escsoft.michaelprimez.searchablespinner/SearchableSpinner/1.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7b2ee88e640e1b1ece40815818cc7f5d5e50a80">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/gr.escsoft.michaelprimez.searchablespinner-SearchableSpinner-1.0.4_4fbd27997c2fedbe233eb0d5689f68a4afcb8380/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_ec6038187b1eb543f91cf7db0987e21af49d1551/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_38abc5cc56fc968607fc633f949d0dba14e24b58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_4bb32a3e07f549b264be7791cddcc6d314bf4c11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk14/1.38/de366c3243a586eb3c0e2bcde1ed9bb1bfb985ff/bcprov-jdk14-1.38.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de366c3243a586eb3c0e2bcde1ed9bb1bfb985ff">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/bcprov-jdk14-1.38_d56d686a4254eae3b7f0abc86564d2caf5e27d17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_2b72cf62cdc68f857e13b49addbce8630b8e0fba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_3586241df05f68b2cf0e7e00ddb16ef0318b9ce2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/co.lujun/androidtagview/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d588d6d328eef9e0a661ad0cc078d1fbe3055bba">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/co.lujun-androidtagview-1.0.5_ab03c56c41ae67860ca78cdb61c2bbbc94b8ae89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_1851bf7beff4e194b8563a5257c625c31bd075e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/gr.escsoft.michaelprimez.revealedittext/RevealEditText/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38c392cb3ae7e2d1cac67a1a7e7c0595d65587a4">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/gr.escsoft.michaelprimez.revealedittext-RevealEditText-1.0.2_fe39fdced6852551531dcefe45896d3f1d5014b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/7a15a7db50f86c4b64aa3367424a60e3a325b8f1/okhttp-2.7.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.7.5_3ff686cdbc900398208fd782626949991e932766/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-cli-1.2_a9b1b6e2841a1fb8b76f50992a73295276f9e8e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_69eef074b78864bebdf4eed83312a91f25d86230/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_38fba8ba65465c7db790505c1eb0f0f05c884379/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.yalantis/contextmenu/1.0.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a751094b3149197fc97f509127ec65ed2329350f">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.yalantis-contextmenu-1.0.7_167dfaa04c53af36502ef82c1f0595a4db87469f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.gjiazhe/PanoramaImageView/1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02ff2201bd08d8713b936c822f46805202d5b869">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.gjiazhe-PanoramaImageView-1.0_d6108cc5b3c12a0164a547d07471f4f4c46ff871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.4.1_356fad19499d43a8c943ad545cb485af5f19b869/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_829b2a88b9819b3a3179a3939c11d93ca1e55db3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_9a7c7b27df8473eb4cc32777a420abd290201aef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_946ffe12fed6e0faee4eccfc58d5d47d6ed5c856/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/home/shyam/Envi_New/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.5.2_3b52a174112fbe97a83002ca7bdb3fdf25db0871/classes.dex" />
+    </item>
+
+</items>

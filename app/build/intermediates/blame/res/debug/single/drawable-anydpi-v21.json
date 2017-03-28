@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/shyam/Envi_New/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/shyam/Envi_New/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/shyam/Envi_New/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ms__menu_down.xml",
+        "source": "/home/shyam/Envi_New/app/build/intermediates/exploded-aar/com.jaredrummler/material-spinner/1.1.0/res/drawable-anydpi-v21/ms__menu_down.xml"
+    }
+]

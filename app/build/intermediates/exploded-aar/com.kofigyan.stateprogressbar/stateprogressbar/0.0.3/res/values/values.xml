@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Kofi%20Gyan/Desktop/FinalSPB/StateProgressBar/stateprogressbar/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="background_color">#F2000000</color>
+    <color name="background_text_color">#808080</color>
+    <color name="foreground_color">#b42379</color>
+    <color name="foreground_text_color">#eeeeee</color>
+    <declare-styleable name="StateProgressBar"><attr format="color" name="spb_stateBackgroundColor"/><attr format="color" name="spb_stateForegroundColor"/><attr format="color" name="spb_stateNumberBackgroundColor"/><attr format="color" name="spb_stateNumberForegroundColor"/><attr format="color" name="spb_currentStateDescriptionColor"/><attr format="color" name="spb_stateDescriptionColor"/><attr format="dimension" name="spb_stateSize"/><attr format="dimension" name="spb_stateTextSize"/><attr format="dimension" name="spb_stateDescriptionSize"/><attr format="dimension" name="spb_stateLineThickness"/><attr format="boolean" name="spb_checkStateCompleted"/><attr format="boolean" name="spb_animateToCurrentProgressState"/><attr format="boolean" name="spb_enableAllStatesCompleted"/><attr format="dimension" name="spb_descriptionTopSpaceDecrementer"/><attr format="dimension" name="spb_descriptionTopSpaceIncrementer"/><attr format="integer" name="spb_animationDuration"/><attr format="integer" name="spb_animationStartDelay"/><attr format="enum" name="spb_currentStateNumber"><enum name="one" value="1"/><enum name="two" value="2"/><enum name="three" value="3"/><enum name="four" value="4"/><enum name="five" value="5"/></attr><attr format="enum" name="spb_maxStateNumber"><enum name="one" value="1"/><enum name="two" value="2"/><enum name="three" value="3"/><enum name="four" value="4"/><enum name="five" value="5"/></attr></declare-styleable>
+    <!-- From: file:/C:/Users/Kofi%20Gyan/Desktop/FinalSPB/StateProgressBar/stateprogressbar/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">stateprogressbar</string>
+    <string name="check_icon"></string>
+</resources>
